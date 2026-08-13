@@ -1,0 +1,10 @@
+*/.Xil/
+*.jou
+*.log
+*.pb
+*.str
+full_adder.cache/
+full_adder.hw/
+full_adder.ip_user_files/
+full_adder.runs/
+full_adder.sim/
